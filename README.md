@@ -10,6 +10,7 @@ KarakMenu Is currently in beta version. Do not expect too much and please report
 This is a Fork of MalumMenu please go check them out at https://github.com/scp222thj/MalumMenu
 
 ---
+
 # How to install: 
 Download the file that matches your Among Us version:
 
