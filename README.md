@@ -9,6 +9,8 @@ If you believe content in this GitHub repository violates your rights, please co
 
 This is a Fork of *MalumMenu* please go check them out at https://github.com/scp222thj/MalumMenu
 Thank you to scp222thj and Astra1dev and all of the other contributors of *MalumMenu*. You made this menu possible for us.
+Thank you to MrDiamond64 and all of the other contributors of *HydraMenu* please go check them out at https://github.com/MrDiamond64/Hydra
+All of you made many features of this mod menu possible.
 
 # How to install: 
 **Download the file that matches your Among Us version:**
