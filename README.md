@@ -14,7 +14,7 @@ Thank you to scp222thj and Astra1dev and all of the other contributors of *Malum
 **Download the file that matches your Among Us version:**
 **Steam or Itch.io:** KarakMenu-(Version number)-Steam-Itch.zip
 **Microsoft Store, Epic Games Store, or Xbox App:** KarakMenu-(Version number)-MicrosoftStore-EpicGames-XboxApp.zip
-Or if you have BepInEx installed just download the dll and paste it into the plugins folder: KarakMenu.dll
+Or if you have BepInEx installed just download the .dll and paste it into the plugins folder at "\Among Us\BepInEx\Plugins"
 But if u don't have BepInEx download the zip and continue setup:
 
 **Steam:** Right-click Among Us in your Library → Click Manage → Click Browse local files.
