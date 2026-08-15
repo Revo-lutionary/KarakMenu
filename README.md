@@ -13,12 +13,14 @@ Thank you to MrDiamond64 and all of the other contributors of *HydraMenu* please
 All of you made many features of this mod menu possible.
 
 # How to install: 
+## 1)
 **Download the file that matches your Among Us version:**
 **Steam or Itch.io:** KarakMenu-(Version number)-Steam-Itch.zip
 **Microsoft Store, Epic Games Store, or Xbox App:** KarakMenu-(Version number)-MicrosoftStore-EpicGames-XboxApp.zip
 Or if you have BepInEx installed just download the .dll and paste it into the plugins folder at "\Among Us\BepInEx\Plugins"
 But if u don't have BepInEx download the zip and continue setup:
 
+## 2)
 **Steam:** Right-click Among Us in your Library → Click Manage → Click Browse local files.
 **Epic Launcher:** Right-click Among Us in your Library → Click Manage → Click the folder icon in the Installation box.
 **Itch.io:** Open the Itch.io app → Right-click Among Us in your Library → Click Manage → Click Open folder in Explorer.
@@ -27,11 +29,12 @@ search for Among Us.exe → Right-click the Among Us.exe result → Select Open 
 **Xbox App:** Right-click Among Us in your Library → Click Manage → Open the FILES tab → Click BROWSE... → Open the Among Us folder → Open the Content folder.
 Launch Among Us as you normally would. You should see a console window appear, installing the mod's requirements.
 
+## 3)
 **ALL:** Open the zip file you have just downloaded and copy all its contents.
 **ALL:** Paste these files directly into your Among Us game folder
 
-**ALL:** Wait for the console window to finish the installation.
-After installation, Among Us will automatically open with KarakMenu successfully installed.
+**ALL:** Run among us then wait for the console window to finish the installation. (Takes around 2-3 mins first run)
+**ALL:** After installation, Among Us will automatically open with KarakMenu successfully installed.
 
 # How to use
 By default, you can toggle the Menu GUI on/off by pressing "del" on your keyboard. (If you don't have a del key on ur your keyboard try "ctrl+M". If that doesn't work press "windows" then search "on screen keyboard"
