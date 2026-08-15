@@ -34,7 +34,7 @@ Launch Among Us as you normally would. You should see a console window appear, i
 After installation, Among Us will automatically open with KarakMenu successfully installed.
 
 # How to use
-By default, you can toggle the Menu GUI on by pressing "del" on your keyboard. (If you don't have a del key on ur your keyboard try "ctrl+M". If that doesn't work press "windows" then search "on screen keyboard"
+By default, you can toggle the Menu GUI on/off by pressing "del" on your keyboard. (If you don't have a del key on ur your keyboard try "ctrl+M". If that doesn't work press "windows" then search "on screen keyboard"
 If the installation doesn't work, open a ticket in our discord server which the invite is (https://discord.gg/fKNHf3YdgU) and we will help you as soon as possible!
 
 Enjoy your gameplay with *KarakMenu*! 
